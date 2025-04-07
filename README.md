@@ -57,7 +57,7 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
 
   <p align="left">
                     <h3>My GitHub Stats</h3><a
-                      href="http://www.github.com/ccantrell2"><img src="https://github-readme-stats.vercel.app/api?username=ccantrell2&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccantrell2's GitHub stats" /></a>
+                     href="http://www.github.com/ccantrell2"><img src="https://github-readme-stats.vercel.app/api?username=ccantrell2&show_icons=true&hide=stars,prs,issues,&title_color=facc15&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccantrell2's GitHub stats" /></a>
                       </p>
                  
                   
