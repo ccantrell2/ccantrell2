@@ -4,6 +4,10 @@ Hi 👋 My name is Cohen Cantrell
 Junior Level Student at The University of North Alabama
 -------------------------------------------------------
 
+<p>
+  <img src="https://i.imgflip.com/7503aw.png?a484104" alt="smart_dog">
+</p>
+
 I am currently pursuing a Bachelor's of Science in Information Technology with concentration in Cybersecurity. I am scheduled to graduate in May of 2026.
 
 *   🌍  I'm based in Florence, AL
