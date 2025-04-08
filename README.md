@@ -1,7 +1,7 @@
 Hi 👋 My name is Cohen Cantrell
 ===============================
 
-Junior Level Student at The University of North Alabama
+Junior Level Undergraduate at The University of North Alabama
 -------------------------------------------------------
 
 <p>
@@ -12,7 +12,6 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
 
 *   🌍  I'm based in Florence, AL
 *   ✉️  You can contact me at [cohenbcantrell@gmail.com](mailto:cohenbcantrell@gmail.com)
-*   🚀  I'm currently working on [The UNA Rugby Starting Lineup](http://ccantrell2.github.io/dev-baker-project/)
 <p align="left">
 <h3>My Skills</h3>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
@@ -59,6 +58,14 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
                     <h3>My GitHub Stats</h3><a
                      href="http://www.github.com/ccantrell2"><img src="https://github-readme-stats.vercel.app/api?username=ccantrell2&show_icons=true&hide=stars,prs,issues,&title_color=facc15&text_color=a855f7&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccantrell2's GitHub stats" /></a>
                       </p>
+
+   <p align="left">
+     <h3>Sample Project</h3>
+     UNA Rugby Starting Lineup
+     
+  
+
+  
                  
                   
                   
