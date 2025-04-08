@@ -61,12 +61,17 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
 
    <p align="left">
      <h3>Sample Project</h3>
-     <b><u>UNA Rugby Starting Lineup</u></b>
+     <u>UNA Rugby Starting Lineup</u>
      <br>
      <b>Author:</b> Cohen Cantrell🦭
      <br>
      <b>Code Link:</b> https://github.com/ccantrell2/dev-baker-project
      <br>
+     This project has many features, such as:
+     <ul>
+       <li>Creating a kickoff formation on a Rugby field using diffrent players and postions</li>
+       <li>Being able to drga the players</li>
+     </ul>
      
    </p>
      
