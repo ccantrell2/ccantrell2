@@ -76,18 +76,15 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
      <br>
      My HTML Code:
 
-     ```Javascript
-     // Invoke a doc ready function
+ ```Javascript
 $(document).ready(
   function() {
 // Interact with the console
-    console.log("Hello World!");
-    
+    console.log("Hello World!");    
 //     Move an item
     $('.firstRow').draggable();
     $('.secondRow').draggable();
     $('.thirdRow').draggable();
- 
 // create some part of your layout with a loop (I took this section of code from your codepen and redid it for my data becuase I wanted to use the append method to create another row)
     for(i = 0; i <5; i++)
     {
