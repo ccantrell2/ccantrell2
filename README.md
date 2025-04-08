@@ -60,8 +60,9 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
                       </p>
 
    <p align="left">
-     # Sample Project
+     <h3>Sample Project</h3>
      <b><u>UNA Rugby Starting Lineup</u></b>
+     <br>
      <b>Author:</b> Cohen Cantrell🦭
      
    </p>
