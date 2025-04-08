@@ -76,7 +76,7 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
      <br>
      My HTML Code:
 
-     '''Javascript
+     ```Javascript
      // Invoke a doc ready function
 $(document).ready(
   function() {
@@ -95,7 +95,7 @@ $(document).ready(
       $('.thirdRow').append('<div class="kick">What a Kick!!!</div>');
     }
 })
-'''
+```
 
    </p>
      
