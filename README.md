@@ -74,7 +74,7 @@ I am currently pursuing a Bachelor's of Science in Information Technology with c
        <li>Beig able to see your reserves and officers of the UNA Rugby Team</li>
      </ul>
      <br>
-     My HTML Code:
+     Draggable and Append Code:
 
  ```Javascript
 $(document).ready(
