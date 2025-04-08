@@ -94,6 +94,75 @@ $(document).ready(
 })
 ```
 
+Field and Border Box's code:
+
+```CSS
+#field {
+  height: 885px;
+  width: 885px;
+  border: 5px solid white;
+  background-color: #009900;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#reserves {
+  height: 460px;
+  width: 225px;
+  border: 10px solid black;
+  background-color: #FFFF00;
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#officers {
+  height: 310px;
+  width: 225px;
+  border: 10px solid black;
+  background-color: #FFFF00;
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#tryLine1 {
+  height: 75px; 
+  width: 880px;
+  margin: auto; 
+  border: 3px solid white;
+  background-color: #009900;
+}
+
+#twentyFiveYardLine1 {
+  height: 150px; 
+  width: 880px;
+  margin: auto; 
+  border: 3px solid white;
+  background-color: #009900;
+}
+
+#fiftyYardLine {
+  height: 500px;
+  width: 880px;
+  margin: auto;
+  border: 3px solid white;
+  background-color: #009900;
+}
+
+#twentyFiveYardLine2 {
+   height: 150px; 
+  width: 880px;
+  margin: auto; 
+  border: 3px solid white;
+  background-color: #009900;
+}
+```
+
    </p>
      
   
