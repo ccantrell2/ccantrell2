@@ -1,7 +1,7 @@
 Hi 👋 My name is Cohen Cantrell
 ===============================
 
-Junior Level Undergraduate at The University of North Alabama
+Senior Level Undergraduate at The University of North Alabama
 -------------------------------------------------------
 
 <p>
